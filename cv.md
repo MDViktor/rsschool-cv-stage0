@@ -9,5 +9,16 @@
 ---
 ## Key competencies:
 ---
-    The desire that everything obeys logic motivates me to create, to act. I love getting to the bottom of the truth. I love mathematics, but for education I went to economics. I want to fix this by becoming a programmer. Today I am a printing press operator in a printing house, which gives me a good help for typesetting.
+    The desire that everything obeys logic motivates me to create, to act. 
+    I love getting to the bottom of the truth. 
+    I love mathematics, but for education I went to economics. 
+    I want to fix this by becoming a programmer. 
+    Today I am a printing press operator in a printing house, which gives me a good help for typesetting.
+---
+## Skills:
+- **HTML**
+- **CSS**
+- **JavaScript (basic)**
+- **Git**
+- **Python**
 ---
