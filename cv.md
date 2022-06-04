@@ -22,3 +22,19 @@
 - **Git**
 - **Python**
 ---
+## Code example:
+``` 
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+```
+---
+## Education:
+- **Donetsk National Univercity of Ukraine**
+    - _Faculty of Economics, the Management of Organizations, master_
+- **Rolling Scopes School**
+    - _Java Script/Front-end development (in process..)_
+---
