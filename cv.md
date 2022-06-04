@@ -1,4 +1,4 @@
-# Viktor Morozov
+# Viktor Morozov ![](https://cdn.discordapp.com/attachments/591539964005580812/958332264025059358/1648440300_prikol-15102021-09.png)
 ---
 ## Contacts:
 ---
@@ -32,9 +32,16 @@ let result = sum(1, 2);
 alert( result );
 ```
 ---
+## Experience:
+ 1. Git & Markdown : [CV](https://github.com/MDViktor/rsschool-cv/blob/gh-pages/cv.md)
+---
 ## Education:
 - **Donetsk National Univercity of Ukraine**
     - _Faculty of Economics, the Management of Organizations, master_
 - **Rolling Scopes School**
     - _Java Script/Front-end development (in process..)_
+---
+## English:
+- B1 
+---
 ---
