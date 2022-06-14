@@ -14,9 +14,9 @@
     margin: 20px;
     border: 1px solid rgb(69, 23, 236);
     padding: 10px;
-}
-head {
-    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
 }
 
 body {
@@ -32,4 +32,8 @@ body {
     box-sizing: border-box;
   }
 
- 
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  
