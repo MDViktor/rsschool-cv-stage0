@@ -49,8 +49,6 @@ body {
 .nav-list {
     display: flex;
     justify-content: flex-start;
-    flex-wrap: wrap;
-    align-items: left;
     margin-right: 2px;
     font: normal italic bold 16px OpenSans;
     list-style: none; 
