@@ -13,9 +13,10 @@ html {
   }
 
 .image {
+    position: relative;
+    top: -70px;
     width: 200px;
     height: 200px;
-    margin: 20px;
     border: 1px solid rgb(69, 23, 236);
     padding: 10px;
     display: flex;
@@ -41,6 +42,10 @@ body {
     margin: 0 auto;
 }
 
+.nav {
+    background-color: rgb(167, 119, 212);
+}
+
 .nav-list {
     display: flex;
     justify-content: flex-start;
@@ -62,4 +67,9 @@ body {
 .nav-link:hover {
     transition: .3s;
     color: blue;
+}
+
+.h1 {
+    position: relative;
+    left: 500px;
 }
