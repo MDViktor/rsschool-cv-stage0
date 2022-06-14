@@ -73,3 +73,12 @@ body {
     position: relative;
     left: 500px;
 }
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 20px;
+    font: normal italic bold 16px OpenSans;
+    list-style: none; 
+}
