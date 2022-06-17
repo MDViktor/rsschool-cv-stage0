@@ -83,3 +83,7 @@ body {
     font: normal italic bold 16px OpenSans;
     list-style: none; 
 }
+
+.main_header {
+    font-size: 32px;
+}
